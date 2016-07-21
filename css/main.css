@@ -6,18 +6,24 @@ div{
 	margin: 5px;
 }
 .dos{
-	width: 350px;
-	height: 110px;
+	width: 345px;
+	height: 115px;
 }
 .tres{
+	margin: 5px;
 	display: inline-block;
 }
 .cuatro{
+	margin: 5px;
 	display: inline-block;
 }
 .cinco{
+	margin: 5px;
 	display: inline-block;
 }
-.siete {
+.seis {
+	display: inline-block;
+}
+.siete{
 	display: inline-block;
 }
